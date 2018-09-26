@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;    
+}
+h1{
+    text-align: center;
+}
+.large, .small, .responsive{
+    padding:1em;
+}
+.large{
+    background:lime;
+}
+
+.small{
+    background:mistyrose;
+}
+
